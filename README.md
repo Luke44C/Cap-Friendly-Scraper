@@ -1,0 +1,1 @@
+# Cap-Friendly-Scraper
