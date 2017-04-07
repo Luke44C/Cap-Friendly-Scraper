@@ -3,6 +3,7 @@
 Spyder Editor
 
 This is a scraper designed to scrape the 2017 NHL cap hits.
+Adding some more comments in here to practice using Github branches and merging
 """
 import bs4, requests
 import pandas as pd
